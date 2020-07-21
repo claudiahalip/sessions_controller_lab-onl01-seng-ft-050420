@@ -4,10 +4,11 @@ class SessionsController < ApplicationController
   end
   
   def create 
-  def 
+  end 
     
   def destroy
     session.delete
   end 
+  
 end
 
